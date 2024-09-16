@@ -151,29 +151,20 @@ print(x_single_prediction1)
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-![1DL](https://github.com/user-attachments/assets/4bc38f18-1f4b-4cbd-90f2-668e7bd36f35)
+![3 1](https://github.com/user-attachments/assets/b4c4554f-9d78-4fd9-890d-e9d2559c4693)
 
-![2DL](https://github.com/user-attachments/assets/d87d7ff3-db22-4c45-9133-1e89f9721949)
-![3DL](https://github.com/user-attachments/assets/96098930-8f61-4fdc-9dec-4f9b9d86cef3)
-
+![3 2](https://github.com/user-attachments/assets/070cf9b4-3998-4839-9252-e6c39898f574)
 ### Classification Report
-![4DL](https://github.com/user-attachments/assets/af319983-84e1-402a-a4a3-65227127c519)
-
+![3 3](https://github.com/user-attachments/assets/89342913-0dfb-46cd-9b7f-701303ca54c7)
 
 ### Confusion Matrix
-![5DL](https://github.com/user-attachments/assets/740036b8-9594-4df0-9339-89940a4299b6)
-
-
+![3 4](https://github.com/user-attachments/assets/395cd1a9-ba44-4bd5-a96a-c5d4d3113ea9)
 
 ### New Sample Data Prediction
 #### INPUT
-<img src="https://github.com/user-attachments/assets/c543356e-5a6d-413e-beba-6d290b9b8dfa" width="300" height="200" alt="Reduced Image">
-
+<img src="https://github.com/user-attachments/assets/022e4cb3-ac9f-4424-bfdd-32645371e211" width="300" height="200" alt="Reduced Image">
 
 #### OUTPUT
-
-
-![6DL](https://github.com/user-attachments/assets/4236f222-cfca-4425-95f7-4b8e7be8c3e8)
-
+![3 5](https://github.com/user-attachments/assets/91de90b8-8877-4d58-aa5e-f0a3d63c7b99)
 ## RESULT
 Thus, a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is written and executed successfully.
